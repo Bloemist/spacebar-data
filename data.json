@@ -1,0 +1,2 @@
+,
+{"timestamp":1477095162,"type":"buy","products_totalprice":-0.5,"products_amount":1,"products":[{"product_id":"12","product_name":"Twix","product_price":"-0.50","product_type":"3"}],"takefrom":[{"account_id":"10","account_name":"Tom","account_money":"-0.50","account_money_take":-0.5,"account_money_after":-1}],"human":"Tom bought 1 product (-0.50) and has EUR -1.00 left"}
