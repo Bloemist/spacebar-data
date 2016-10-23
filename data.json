@@ -6,3 +6,4 @@
 
 {"timestamp":1477242910,"type":"buy","products_totalprice":-1.5,"products_amount":1,"products":[{"product_id":"5","product_name":"Ice Tea","product_price":"-1.50","product_type":"1"}],"takefrom":[{"account_id":"1","account_name":"Bloemist","account_money":"-8.50","account_money_take":-1.5,"account_money_after":-10}],"human":"Bloemist bought 1 product (-1.50) and has EUR -10.00 left"},
 {"timestamp":1477243429,"type":"buy","products_totalprice":0,"products_amount":0,"takefrom":[{"account_id":"1","account_name":"Bloemist","account_money":"0.00","account_money_take":0,"account_money_after":0}],"human":"Bloemist has EUR 0.00 left"},
+{"timestamp":1477243430,"type":"buy","products_totalprice":0,"products_amount":0,"takefrom":[{"account_id":"2","account_name":"Sasja","account_money":"0.00","account_money_take":0,"account_money_after":0}],"human":"Sasja has EUR 0.00 left"},
