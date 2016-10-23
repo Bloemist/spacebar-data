@@ -4,3 +4,5 @@
 {"timestamp":1477240201,"type":"buy","products_totalprice":-1.5,"products_amount":1,"products":[{"product_id":"6","product_name":"Fanta","product_price":"-1.50","product_type":"1"}],"takefrom":[{"account_id":"3","account_name":"Koen","account_money":"0.00","account_money_take":-1.5,"account_money_after":-1.5}],"human":"Koen bought 1 product (-1.50) and has EUR -1.50 left"}
 ,
 {"timestamp":1477240315,"type":"buy","products_totalprice":-0.5,"products_amount":1,"products":[{"product_id":"12","product_name":"Twix","product_price":"-0.50","product_type":"3"}],"takefrom":[{"account_id":"10","account_name":"Tom","account_money":"-1.00","account_money_take":-0.5,"account_money_after":-1.5}],"human":"Tom bought 1 product (-0.50) and has EUR -1.50 left"}
+
+{"timestamp":1477240666,"type":"buy","products_totalprice":-0.5,"products_amount":1,"products":[{"product_id":"19","product_name":"Cha-Cha","product_price":"-0.50","product_type":"3"}],"takefrom":[{"account_id":"13","account_name":"sandb","account_money":"-1.00","account_money_take":-0.5,"account_money_after":-1.5}],"human":"sandb bought 1 product (-0.50) and has EUR -1.50 left"},
