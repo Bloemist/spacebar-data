@@ -19,3 +19,4 @@
 {"timestamp":1477264189,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"1","account_name":"Bloemist","account_money":"3.50"},"human":"Bloemist has EUR 3.50 left"},
 {"timestamp":1477264286,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"4","account_name":"Mimor","account_money":"0.00"},"human":"Mimor has EUR 0.00 left"},
 {"timestamp":1477264286,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"4","account_name":"Mimor","account_money":"0.00"},"human":"Mimor has EUR 0.00 left"},
+{"timestamp":1477264287,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"4","account_name":"Mimor","account_money":"0.00"},"human":"Mimor has EUR 0.00 left"},
