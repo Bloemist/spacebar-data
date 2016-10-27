@@ -2,3 +2,4 @@
 
 
 {"timestamp":1477593963,"type":"deposit","giveto":[{"account_id":"1","account_name":"Bloemist","account_money":"-5.30","give":"0.20"}],"human":"Bloemist deposited EUR 0.20 and has now EUR -5.10"},
+{"timestamp":1477594408,"type":"buy","products_totalprice":-1.5,"products_amount":1,"products":[{"product_id":"5","product_name":"Ice Tea","product_price":"-1.50","product_type":"1"}],"takefrom":[{"account_id":"20","account_name":"Koen","account_money":"0.50","account_money_take":-1.5,"account_money_after":-1}],"human":"Koen bought 1 product (-1.50) and has EUR -1.00 left"},
