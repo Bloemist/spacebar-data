@@ -27,3 +27,4 @@
 {"timestamp":1477595520,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"31","account_name":"sasja","account_money":"11.60"},"human":"sasja has EUR 11.60 left"},
 {"timestamp":1477596807,"type":"deposit","giveto":[{"account_id":"41","account_name":"Tom","account_money":"-1.50","give":"10.00"}],"human":"Tom deposited EUR 10.00 and has now EUR 8.50"},
 {"timestamp":1477596816,"type":"buy","products_totalprice":-1.5,"products_amount":1,"products":[{"product_id":"5","product_name":"Ice Tea","product_price":"-1.50","product_type":"1"}],"takefrom":[{"account_id":"41","account_name":"Tom","account_money":"8.50","account_money_take":-1.5,"account_money_after":7}],"human":"Tom bought 1 product (-1.50) and has EUR 7.00 left"},
+{"timestamp":1477598288,"type":"deposit","giveto":[{"account_id":"30","account_name":"joris","account_money":"-7.00","give":"20.00"}],"human":"joris deposited EUR 20.00 and has now EUR 13.00"},
