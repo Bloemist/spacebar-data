@@ -149,3 +149,4 @@
 {"timestamp":1478209898,"type":"deposit","giveto":[{"account_id":"31","account_name":"sasja","account_money":"-17.40","give":"30.00"}],"human":"sasja deposited EUR 30.00 and has now EUR 12.60"},
 {"timestamp":1478212281,"type":"deposit","giveto":[{"account_id":"42","account_name":"elvis","account_money":"1.00","give":"5.00"}],"human":"elvis deposited EUR 5.00 and has now EUR 6.00"},
 {"timestamp":1478212941,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"24","account_name":"Bert","account_money":"-3.30"},"human":"Bert has EUR -3.30 left"},
+{"timestamp":1478212947,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"28","account_name":"bart","account_money":"7.06"},"human":"bart has EUR 7.06 left"},
