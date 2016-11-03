@@ -122,3 +122,4 @@
 {"timestamp":1478200611,"type":"deposit","giveto":[{"account_id":"28","account_name":"bart","account_money":"8.30","give":"-4.00"}],"human":"bart deposited EUR -4.00 and has now EUR 4.30"},
 {"timestamp":1478200679,"type":"deposit","giveto":[{"account_id":"1","account_name":"Bloemist","account_money":"-29.60","give":"4.00"}],"human":"Bloemist deposited EUR 4.00 and has now EUR -25.60"},
 {"timestamp":1478200721,"type":"buy","products_totalprice":-0.5,"products_amount":1,"products":[{"product_id":"11","product_name":"Snickers","product_price":"-0.50","product_type":"3"}],"takefrom":[{"account_id":"28","account_name":"bart","account_money":"4.30","account_money_take":-0.5,"account_money_after":3.8}],"human":"bart bought 1 product (-0.50) and has EUR 3.80 left"},
+{"timestamp":1478200727,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"28","account_name":"bart","account_money":"3.80"},"human":"bart has EUR 3.80 left"},
