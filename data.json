@@ -348,3 +348,4 @@
 {"timestamp":1480024055,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"17","account_name":"piet","account_money":"1.29"},"human":"piet has EUR 1.29 left"},
 {"timestamp":1480024391,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"17","account_name":"piet","account_money":"1.29"},"human":"piet has EUR 1.29 left"},
 {"timestamp":1480024435,"type":"buy","products_totalprice":-1.5,"products_amount":1,"products":[{"product_id":"6","product_name":"Fanta","product_price":"-1.50","product_type":"1"}],"takefrom":[{"account_id":"42","account_name":"elvis","account_money":"3.50","account_money_take":-1.5,"account_money_after":2}],"human":"elvis bought 1 product (-1.50) and has EUR 2.00 left"},
+{"timestamp":1480026280,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"28","account_name":"bart","account_money":"13.10"},"human":"bart has EUR 13.10 left"},
