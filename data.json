@@ -346,3 +346,4 @@
 {"timestamp":1480022945,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"27","account_name":"thijs","account_money":"-8.85"},"human":"thijs has EUR -8.85 left"},
 {"timestamp":1480023107,"type":"buy","products_totalprice":-0.5,"products_amount":1,"products":[{"product_id":"9","product_name":"Chips","product_price":"-0.50","product_type":"3"}],"takefrom":[{"account_id":"31","account_name":"sasja","account_money":"4.60","account_money_take":-0.5,"account_money_after":4.1}],"human":"sasja bought 1 product (-0.50) and has EUR 4.10 left"},
 {"timestamp":1480024055,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"17","account_name":"piet","account_money":"1.29"},"human":"piet has EUR 1.29 left"},
+{"timestamp":1480024391,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"17","account_name":"piet","account_money":"1.29"},"human":"piet has EUR 1.29 left"},
