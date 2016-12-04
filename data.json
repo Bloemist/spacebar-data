@@ -438,3 +438,4 @@
 {"timestamp":1480886428,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"31","account_name":"sasja","account_money":"16.60"},"human":"sasja has EUR 16.60 left"},
 {"timestamp":1480886429,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"20","account_name":"Koen","account_money":"-2.30"},"human":"Koen has EUR -2.30 left"},
 {"timestamp":1480886431,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"25","account_name":"Merlijn","account_money":"12.25"},"human":"Merlijn has EUR 12.25 left"},
+{"timestamp":1480886432,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"27","account_name":"thijs","account_money":"1.65"},"human":"thijs has EUR 1.65 left"},
