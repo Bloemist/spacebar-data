@@ -432,3 +432,4 @@
 {"timestamp":1480882192,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"41","account_name":"Tom","account_money":"-5.50"},"human":"Tom has EUR -5.50 left"},
 {"timestamp":1480882193,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"41","account_name":"Tom","account_money":"-5.50"},"human":"Tom has EUR -5.50 left"},
 {"timestamp":1480882194,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"41","account_name":"Tom","account_money":"-5.50"},"human":"Tom has EUR -5.50 left"},
+{"timestamp":1480883797,"type":"buy","products_totalprice":-1.5,"products_amount":1,"products":[{"product_id":"6","product_name":"Fanta","product_price":"-1.50","product_type":"1"}],"takefrom":[{"account_id":"1","account_name":"Bloemist","account_money":"-17.10","account_money_take":-1.5,"account_money_after":-18.6}],"human":"Bloemist bought 1 product (-1.50) and has EUR -18.60 left"},
