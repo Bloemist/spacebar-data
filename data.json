@@ -557,3 +557,4 @@
 {"timestamp":1481832433,"type":"deposit","giveto":[{"account_id":"24","account_name":"Bert","account_money":"24.20","give":"1.00"}],"human":"Bert deposited EUR 1.00 and has now EUR 25.20"},
 {"timestamp":1481832630,"type":"deposit","giveto":[{"account_id":"43","account_name":"gillesj","account_money":"21.00","give":"1.00"}],"human":"gillesj deposited EUR 1.00 and has now EUR 22.00"},
 {"timestamp":1481834660,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"27","account_name":"thijs","account_money":"-0.85"},"human":"thijs has EUR -0.85 left"},
+{"timestamp":1481834678,"type":"buy","products_totalprice":-1.5,"products_amount":1,"products":[{"product_id":"6","product_name":"Fanta","product_price":"-1.50","product_type":"1"}],"takefrom":[{"account_id":"42","account_name":"elvis","account_money":"2.00","account_money_take":-1.5,"account_money_after":0.5}],"human":"elvis bought 1 product (-1.50) and has EUR 0.50 left"},
