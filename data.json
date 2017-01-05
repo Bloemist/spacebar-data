@@ -667,3 +667,5 @@
 {"timestamp":1483643828,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"1","account_name":"Bloemist","account_money":"-4.60"},"human":"Bloemist has EUR -4.60 left"},
 {"timestamp":1483643828,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"1","account_name":"Bloemist","account_money":"-4.60"},"human":"Bloemist has EUR -4.60 left"},
 {"timestamp":1483643828,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"1","account_name":"Bloemist","account_money":"-4.60"},"human":"Bloemist has EUR -4.60 left"},
+{"timestamp":1483643830,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"1","account_name":"Bloemist","account_money":"-4.60"},"human":"Bloemist has EUR -4.60 left"},
+{"timestamp":1483644131,"type":"deposit","giveto":[{"account_id":"42","account_name":"elvis","account_money":"0.00","give":"10.00"}],"human":"elvis deposited EUR 10.00 and has now EUR 10.00"},
