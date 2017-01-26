@@ -848,3 +848,4 @@
 {"timestamp":1485460413,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"24","account_name":"Bert","account_money":"12.70"},"human":"Bert has EUR 12.70 left"},
 {"timestamp":1485460415,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"26","account_name":"ruben","account_money":"-0.50"},"human":"ruben has EUR -0.50 left"},
 {"timestamp":1485460416,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"28","account_name":"bart","account_money":"9.48"},"human":"bart has EUR 9.48 left"},
+{"timestamp":1485460418,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"29","account_name":"steven","account_money":"3.00"},"human":"steven has EUR 3.00 left"},
