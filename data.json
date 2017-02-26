@@ -1264,3 +1264,4 @@
 {"timestamp":1488119833,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"44","account_name":"Ellen","account_money":"0.00"},"human":"Ellen has EUR 0.00 left"},
 {"timestamp":1488119855,"type":"deposit","giveto":[{"account_id":"44","account_name":"Ellen","account_money":"0.00","give":"20.00"}],"human":"Ellen deposited EUR 20.00 and has now EUR 20.00"},
 {"timestamp":1488119862,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"44","account_name":"Ellen","account_money":"20.00"},"human":"Ellen has EUR 20.00 left"},
+{"timestamp":1488119872,"type":"buy","products_totalprice":-0.5,"products_amount":1,"products":[{"product_id":"9","product_name":"Chips","product_price":"-0.50","product_type":"3"}],"takefrom":[{"account_id":"44","account_name":"Ellen","account_money":"20.00","account_money_take":-0.5,"account_money_after":19.5}],"human":"Ellen bought 1 product (-0.50) and has EUR 19.50 left"},
