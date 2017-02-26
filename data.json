@@ -1263,3 +1263,4 @@
 {"timestamp":1488119815,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"44","account_name":"Ellen","account_money":"0.00"},"human":"Ellen has EUR 0.00 left"},
 {"timestamp":1488119833,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"44","account_name":"Ellen","account_money":"0.00"},"human":"Ellen has EUR 0.00 left"},
 {"timestamp":1488119855,"type":"deposit","giveto":[{"account_id":"44","account_name":"Ellen","account_money":"0.00","give":"20.00"}],"human":"Ellen deposited EUR 20.00 and has now EUR 20.00"},
+{"timestamp":1488119862,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"44","account_name":"Ellen","account_money":"20.00"},"human":"Ellen has EUR 20.00 left"},
