@@ -2624,3 +2624,4 @@
 {"timestamp":1495139745,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"49","account_name":"Ruleant","account_money":"20.00"},"human":"Ruleant has EUR 20.00 left"},
 {"timestamp":1495139811,"type":"buy","products_totalprice":-0.5,"products_amount":1,"products":[{"product_id":"9","product_name":"Snack","product_price":"-0.50","product_type":"3"}],"takefrom":[{"account_id":"42","account_name":"elvis","account_money":"-0.28","account_money_take":-0.5,"account_money_after":-0.78}],"human":"elvis bought 1 product (-0.50) and has EUR -0.78 left"},
 {"timestamp":1495139882,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"49","account_name":"ruleant","account_money":"20.00"},"human":"ruleant has EUR 20.00 left"},
+{"timestamp":1495139907,"type":"deposit","giveto":[{"account_id":"45","account_name":"Lies","account_money":"0.50","give":"5.00"}],"human":"Lies deposited EUR 5.00 and has now EUR 5.50"},
