@@ -2828,3 +2828,4 @@
 {"timestamp":1497100186,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"50","account_name":"Panda","account_money":"1.50"},"human":"Panda has EUR 1.50 left"},
 {"timestamp":1497100193,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"50","account_name":"Panda","account_money":"1.50"},"human":"Panda has EUR 1.50 left"},
 {"timestamp":1497100214,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"50","account_name":"Panda","account_money":"1.50"},"human":"Panda has EUR 1.50 left"},
+{"timestamp":1497100224,"type":"deposit","giveto":[{"account_id":"50","account_name":"Panda","account_money":"1.50","give":"5.00"}],"human":"Panda deposited EUR 5.00 and has now EUR 6.50"},
