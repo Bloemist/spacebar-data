@@ -2888,3 +2888,5 @@
 {"timestamp":1498155473,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"20","account_name":"Koen","account_money":"-1.40"},"human":"Koen has EUR -1.40 left"},
 {"timestamp":1498155474,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"20","account_name":"Koen","account_money":"-1.40"},"human":"Koen has EUR -1.40 left"},
 {"timestamp":1498155503,"type":"deposit","giveto":[{"account_id":"20","account_name":"Koen","account_money":"-1.40","give":"2.00"}],"human":"Koen deposited EUR 2.00 and has now EUR 0.60"},
+{"timestamp":1498155627,"type":"buy","products_totalprice":-1.5,"products_amount":1,"products":[{"product_id":"5","product_name":"Ice Tea","product_price":"-1.50","product_type":"1"}],"takefrom":[{"account_id":"25","account_name":"Merlijn","account_money":"-20.07","account_money_take":-1.5,"account_money_after":-21.57}],"human":"Merlijn bought 1 product (-1.50) and has EUR -21.57 left"},
+{"timestamp":1498155636,"type":"deposit","giveto":[{"account_id":"28","account_name":"bart","account_money":"-67.77","give":"100.00"}],"human":"bart deposited EUR 100.00 and has now EUR 32.23"},
