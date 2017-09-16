@@ -3617,3 +3617,8 @@
 {"timestamp":1505522076,"type":"buy","products_totalprice":-1.5,"products_amount":1,"products":[{"product_id":"5","product_name":"Ice Tea","product_price":"-1.50","product_type":"1"}],"takefrom":[{"account_id":"20","account_name":"Koen","account_money":"3.30","account_money_take":-1.5,"account_money_after":1.8}],"human":"Koen bought 1 product (-1.50) and has EUR 1.80 left"},
 {"timestamp":1505523573,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"30","account_name":"joris","account_money":"-3.50"},"human":"joris has EUR -3.50 left"},
 {"timestamp":1505523574,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"44","account_name":"Ellen","account_money":"9.25"},"human":"Ellen has EUR 9.25 left"},
+{"timestamp":1505523575,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"44","account_name":"Ellen","account_money":"9.25"},"human":"Ellen has EUR 9.25 left"},
+{"timestamp":1505523575,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"44","account_name":"Ellen","account_money":"9.25"},"human":"Ellen has EUR 9.25 left"},
+{"timestamp":1505523575,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"44","account_name":"Ellen","account_money":"9.25"},"human":"Ellen has EUR 9.25 left"},
+{"timestamp":1505523576,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"44","account_name":"Ellen","account_money":"9.25"},"human":"Ellen has EUR 9.25 left"},
+{"timestamp":1505523582,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"30","account_name":"joris","account_money":"-3.50"},"human":"joris has EUR -3.50 left"},
