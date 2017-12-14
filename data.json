@@ -4235,3 +4235,4 @@
 {"timestamp":1513279703,"type":"deposit","giveto":[{"account_id":"44","account_name":"Ellen","account_money":"-0.95","give":"4.90"}],"human":"Ellen deposited EUR 4.90 and has now EUR 3.95"},
 {"timestamp":1513279775,"type":"buy","products_totalprice":-2,"products_amount":1,"products":[{"product_id":"30","product_name":"Fritz","product_price":"-2.00","product_type":"1"}],"takefrom":[{"account_id":"44","account_name":"Ellen","account_money":"3.95","account_money_take":-2,"account_money_after":1.95}],"human":"Ellen bought 1 product (-2.00) and has EUR 1.95 left"},
 {"timestamp":1513279995,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"49","account_name":"ruleant","account_money":"0.50"},"human":"ruleant has EUR 0.50 left"},
+{"timestamp":1513280401,"type":"deposit","giveto":[{"account_id":"49","account_name":"ruleant","account_money":"0.50","give":"20.00"}],"human":"ruleant deposited EUR 20.00 and has now EUR 20.50"},
