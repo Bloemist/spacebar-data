@@ -4780,3 +4780,4 @@
 {"timestamp":1518351131,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"42","account_name":"elvis","account_money":"30.15"},"human":"elvis has EUR 30.15 left"},
 {"timestamp":1518351131,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"42","account_name":"elvis","account_money":"30.15"},"human":"elvis has EUR 30.15 left"},
 {"timestamp":1518351158,"type":"buy","products_totalprice":-1.5,"products_amount":1,"products":[{"product_id":"1","product_name":"Cola","product_price":"-1.50","product_type":"1"}],"takefrom":[{"account_id":"28","account_name":"bart","account_money":"25.00","account_money_take":-1.5,"account_money_after":23.5}],"human":"bart bought 1 product (-1.50) and has EUR 23.50 left"},
+{"timestamp":1518351252,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"37","account_name":"carl","account_money":"7.50"},"human":"carl has EUR 7.50 left"},
