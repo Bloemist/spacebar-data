@@ -4855,3 +4855,4 @@
 {"timestamp":1518745227,"type":"deposit","giveto":[{"account_id":"42","account_name":"elvis","account_money":"13.65","give":"10.00"}],"human":"elvis deposited EUR 10.00 and has now EUR 23.65"},
 {"timestamp":1518745256,"type":"deposit","giveto":[{"account_id":"28","account_name":"bart","account_money":"17.50","give":"-6.00"}],"human":"bart deposited EUR -6.00 and has now EUR 11.50"},
 {"timestamp":1518745263,"type":"deposit","giveto":[{"account_id":"42","account_name":"elvis","account_money":"23.65","give":"6.00"}],"human":"elvis deposited EUR 6.00 and has now EUR 29.65"},
+{"timestamp":1518834328,"type":"buy","products_totalprice":-0.5,"products_amount":1,"products":[{"product_id":"9","product_name":"Snack","product_price":"-0.50","product_type":"3"}],"takefrom":[{"account_id":"42","account_name":"elvis","account_money":"29.65","account_money_take":-0.5,"account_money_after":29.15}],"human":"elvis bought 1 product (-0.50) and has EUR 29.15 left"},
