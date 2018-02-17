@@ -4876,3 +4876,4 @@
 {"timestamp":1518892191,"type":"deposit","giveto":[{"account_id":"44","account_name":"Ellen","account_money":"-7.09","give":"5.50"}],"human":"Ellen deposited EUR 5.50 and has now EUR -1.59"},
 {"timestamp":1518892269,"type":"deposit","giveto":[{"account_id":"54","account_name":"betz","account_money":"10.00","give":"-5.30"}],"human":"betz deposited EUR -5.30 and has now EUR 4.70"},
 {"timestamp":1518892279,"type":"deposit","giveto":[{"account_id":"44","account_name":"Ellen","account_money":"-1.59","give":"5.30"}],"human":"Ellen deposited EUR 5.30 and has now EUR 3.71"},
+{"timestamp":1518893505,"type":"buy","products_totalprice":-1.5,"products_amount":1,"products":[{"product_id":"1","product_name":"Cola","product_price":"-1.50","product_type":"1"}],"takefrom":[{"account_id":"28","account_name":"bart","account_money":"1.00","account_money_take":-1.5,"account_money_after":-0.5}],"human":"bart bought 1 product (-1.50) and has EUR -0.50 left"},
