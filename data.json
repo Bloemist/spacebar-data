@@ -4883,3 +4883,4 @@
 {"timestamp":1518897082,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"35","account_name":"rein","account_money":"11.00"},"human":"rein has EUR 11.00 left"},
 {"timestamp":1518897085,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"37","account_name":"carl","account_money":"7.50"},"human":"carl has EUR 7.50 left"},
 {"timestamp":1518897087,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"26","account_name":"ruben","account_money":"-2.00"},"human":"ruben has EUR -2.00 left"},
+{"timestamp":1518971180,"type":"buy","products_totalprice":-0.5,"products_amount":1,"products":[{"product_id":"20","product_name":"Water","product_price":"-0.50","product_type":"1"}],"takefrom":[{"account_id":"31","account_name":"sasja","account_money":"5.53","account_money_take":-0.5,"account_money_after":5.03}],"human":"sasja bought 1 product (-0.50) and has EUR 5.03 left"},
