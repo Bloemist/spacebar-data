@@ -5038,3 +5038,4 @@
 {"timestamp":1519943682,"type":"buy","products_totalprice":-1.5,"products_amount":1,"products":[{"product_id":"5","product_name":"Ice Tea","product_price":"-1.50","product_type":"1"}],"takefrom":[{"account_id":"20","account_name":"Koen","account_money":"-2.00","account_money_take":-1.5,"account_money_after":-3.5}],"human":"Koen bought 1 product (-1.50) and has EUR -3.50 left"},
 {"timestamp":1519943718,"type":"deposit","giveto":[{"account_id":"20","account_name":"Koen","account_money":"-3.50","give":"3.50"}],"human":"Koen deposited EUR 3.50 and has now EUR 0.00"},
 {"timestamp":1519943987,"type":"deposit","giveto":[{"account_id":"27","account_name":"thijs","account_money":"-12.73","give":"30.00"}],"human":"thijs deposited EUR 30.00 and has now EUR 17.27"},
+{"timestamp":1519952257,"type":"deposit","giveto":[{"account_id":"1","account_name":"Bloemist","account_money":"74.80","give":"7.00"}],"human":"Bloemist deposited EUR 7.00 and has now EUR 81.80"},
