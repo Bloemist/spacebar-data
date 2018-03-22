@@ -5198,3 +5198,4 @@
 {"timestamp":1521747810,"type":"buy","products_totalprice":-2,"products_amount":1,"products":[{"product_id":"4","product_name":"Heavy Beer","product_price":"-2.00","product_type":"2"}],"takefrom":[{"account_id":"51","account_name":"Thomas","account_money":"8.00","account_money_take":-2,"account_money_after":6}],"human":"Thomas bought 1 product (-2.00) and has EUR 6.00 left"},
 {"timestamp":1521747893,"type":"deposit","giveto":[{"account_id":"42","account_name":"elvis","account_money":"34.65","give":"-4.80"}],"human":"elvis deposited EUR -4.80 and has now EUR 29.85"},
 {"timestamp":1521747901,"type":"deposit","giveto":[{"account_id":"1","account_name":"Bloemist","account_money":"80.30","give":"4.80"}],"human":"Bloemist deposited EUR 4.80 and has now EUR 85.10"},
+{"timestamp":1521748900,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"21","account_name":"mimor","account_money":"93.00"},"human":"mimor has EUR 93.00 left"},
