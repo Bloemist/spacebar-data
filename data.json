@@ -5285,3 +5285,4 @@
 {"timestamp":1522670263,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"20","account_name":"Koen","account_money":"3.00"},"human":"Koen has EUR 3.00 left"},
 {"timestamp":1522670264,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"32","account_name":"els","account_money":"7.00"},"human":"els has EUR 7.00 left"},
 {"timestamp":1522670266,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"27","account_name":"thijs","account_money":"12.27"},"human":"thijs has EUR 12.27 left"},
+{"timestamp":1522671919,"type":"deposit","giveto":[{"account_id":"31","account_name":"sasja","account_money":"23.53","give":"25.00"}],"human":"sasja deposited EUR 25.00 and has now EUR 48.53"},
