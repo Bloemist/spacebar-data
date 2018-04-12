@@ -5538,3 +5538,4 @@
 {"timestamp":1523573976,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"1","account_name":"Bloemist","account_money":"87.10"},"human":"Bloemist has EUR 87.10 left"},
 {"timestamp":1523573978,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"31","account_name":"sasja","account_money":"31.42"},"human":"sasja has EUR 31.42 left"},
 {"timestamp":1523573984,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"20","account_name":"Koen","account_money":"-24.00"},"human":"Koen has EUR -24.00 left"},
+{"timestamp":1523573985,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"32","account_name":"els","account_money":"-9.50"},"human":"els has EUR -9.50 left"},
