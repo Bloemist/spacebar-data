@@ -5559,3 +5559,4 @@
 {"timestamp":1523574040,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"19","account_name":"Cedric","account_money":"10.50"},"human":"Cedric has EUR 10.50 left"},
 {"timestamp":1523574041,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"17","account_name":"piet","account_money":"1.29"},"human":"piet has EUR 1.29 left"},
 {"timestamp":1523574043,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"55","account_name":"on8wr","account_money":"-1.50"},"human":"on8wr has EUR -1.50 left"},
+{"timestamp":1523615742,"type":"buy","products_totalprice":-1.5,"products_amount":1,"products":[{"product_id":"5","product_name":"Ice Tea","product_price":"-1.50","product_type":"1"}],"takefrom":[{"account_id":"20","account_name":"Koen","account_money":"-24.00","account_money_take":-1.5,"account_money_after":-25.5}],"human":"Koen bought 1 product (-1.50) and has EUR -25.50 left"},
