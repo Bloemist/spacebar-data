@@ -5663,3 +5663,4 @@
 {"timestamp":1523657066,"type":"deposit","giveto":[{"account_id":"26","account_name":"ruben","account_money":"-2.00","give":"2.50"}],"human":"ruben deposited EUR 2.50 and has now EUR 0.50"},
 {"timestamp":1523657687,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"26","account_name":"ruben","account_money":"0.50"},"human":"ruben has EUR 0.50 left"},
 {"timestamp":1523657703,"type":"deposit","giveto":[{"account_id":"26","account_name":"ruben","account_money":"0.50","give":"-0.50"}],"human":"ruben deposited EUR -0.50 and has now EUR 0.00"},
+{"timestamp":1523658239,"type":"buy","products_totalprice":-1,"products_amount":1,"products":[{"product_id":"9","product_name":"Snack","product_price":"-1.00","product_type":"3"}],"takefrom":[{"account_id":"1","account_name":"Bloemist","account_money":"72.10","account_money_take":-1,"account_money_after":71.1}],"human":"Bloemist bought 1 product (-1.00) and has EUR 71.10 left"},
