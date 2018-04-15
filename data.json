@@ -6040,3 +6040,4 @@
 {"timestamp":1523823129,"type":"deposit","giveto":[{"account_id":"20","account_name":"Koen","account_money":"0.60","give":"-3.60"}],"human":"Koen deposited EUR -3.60 and has now EUR -3.00"},
 {"timestamp":1523823134,"type":"deposit","giveto":[{"account_id":"20","account_name":"Koen","account_money":"-3.00","give":"3.00"}],"human":"Koen deposited EUR 3.00 and has now EUR 0.00"},
 {"timestamp":1523824296,"type":"deposit","giveto":[{"account_id":"41","account_name":"Tom","account_money":"-28.93","give":"30.00"}],"human":"Tom deposited EUR 30.00 and has now EUR 1.07"},
+{"timestamp":1523824485,"type":"buy","products_totalprice":-1,"products_amount":1,"products":[{"product_id":"20","product_name":"Water","product_price":"-1.00","product_type":"1"}],"takefrom":[{"account_id":"25","account_name":"Merlijn","account_money":"3.63","account_money_take":-1,"account_money_after":2.63}],"human":"Merlijn bought 1 product (-1.00) and has EUR 2.63 left"},
