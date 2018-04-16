@@ -6090,3 +6090,4 @@
 {"timestamp":1523911076,"type":"buy","products_totalprice":-1.5,"products_amount":1,"products":[{"product_id":"2","product_name":"Jupiler","product_price":"-1.50","product_type":"2"}],"takefrom":[{"account_id":"20","account_name":"Koen","account_money":"-5.20","account_money_take":-1.5,"account_money_after":-6.7}],"human":"Koen bought 1 product (-1.50) and has EUR -6.70 left"},
 {"timestamp":1523911081,"type":"deposit","giveto":[{"account_id":"20","account_name":"Koen","account_money":"-6.70","give":"10.00"}],"human":"Koen deposited EUR 10.00 and has now EUR 3.30"},
 {"timestamp":1523914961,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"25","account_name":"Merlijn","account_money":"-0.37"},"human":"Merlijn has EUR -0.37 left"},
+{"timestamp":1523918277,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"58","account_name":"thequux","account_money":"8.00"},"human":"thequux has EUR 8.00 left"},
