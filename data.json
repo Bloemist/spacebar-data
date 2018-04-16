@@ -6085,3 +6085,4 @@
 {"timestamp":1523906548,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"36","account_name":"kaat","account_money":"10.00"},"human":"kaat has EUR 10.00 left"},
 {"timestamp":1523906551,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"40","account_name":"friendsofp","account_money":"1.00"},"human":"friendsofp has EUR 1.00 left"},
 {"timestamp":1523906565,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"38","account_name":"abe","account_money":"2.85"},"human":"abe has EUR 2.85 left"},
+{"timestamp":1523910405,"type":"buy","products_totalprice":-0.5,"products_amount":1,"products":[{"product_id":"9","product_name":"Snack","product_price":"-0.50","product_type":"3"}],"takefrom":[{"account_id":"42","account_name":"elvis","account_money":"-0.15","account_money_take":-0.5,"account_money_after":-0.65}],"human":"elvis bought 1 product (-0.50) and has EUR -0.65 left"},
