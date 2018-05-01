@@ -6231,3 +6231,5 @@
 {"timestamp":1525112399,"type":"deposit","giveto":[{"account_id":"50","account_name":"Panda","account_money":"1.20","give":"-1.20"}],"human":"Panda deposited EUR -1.20 and has now EUR 0.00"},
 {"timestamp":1525112458,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"27","account_name":"thijs","account_money":"0.27"},"human":"thijs has EUR 0.27 left"},
 {"timestamp":1525197697,"type":"buy","products_totalprice":-0.5,"products_amount":1,"products":[{"product_id":"9","product_name":"Snack","product_price":"-0.50","product_type":"3"}],"takefrom":[{"account_id":"42","account_name":"elvis","account_money":"24.35","account_money_take":-0.5,"account_money_after":23.85}],"human":"elvis bought 1 product (-0.50) and has EUR 23.85 left"},
+{"timestamp":1525202514,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"30","account_name":"joris","account_money":"1.00"},"human":"joris has EUR 1.00 left"},
+{"timestamp":1525202515,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"30","account_name":"joris","account_money":"1.00"},"human":"joris has EUR 1.00 left"},
