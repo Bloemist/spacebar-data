@@ -6499,3 +6499,4 @@
 {"timestamp":1527455095,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"31","account_name":"sasja","account_money":"6.72"},"human":"sasja has EUR 6.72 left"},
 {"timestamp":1527455095,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"31","account_name":"sasja","account_money":"6.72"},"human":"sasja has EUR 6.72 left"},
 {"timestamp":1527458541,"type":"buy","products_totalprice":-1.5,"products_amount":1,"products":[{"product_id":"1","product_name":"Soda","product_price":"-1.50","product_type":"1"}],"takefrom":[{"account_id":"28","account_name":"bart","account_money":"6.92","account_money_take":-1.5,"account_money_after":5.42}],"human":"bart bought 1 product (-1.50) and has EUR 5.42 left"},
+{"timestamp":1527463238,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"55","account_name":"on8wr","account_money":"0.50"},"human":"on8wr has EUR 0.50 left"},
