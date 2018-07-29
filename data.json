@@ -7178,3 +7178,4 @@
 {"timestamp":1532886391,"type":"buy","products_totalprice":-0.5,"products_amount":1,"products":[{"product_id":"20","product_name":"Water","product_price":"-0.50","product_type":"1"}],"takefrom":[{"account_id":"41","account_name":"Tom","account_money":"5.65","account_money_take":-0.5,"account_money_after":5.15}],"human":"Tom bought 1 product (-0.50) and has EUR 5.15 left"},
 {"timestamp":1532886765,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"42","account_name":"elvis","account_money":"2.20"},"human":"elvis has EUR 2.20 left"},
 {"timestamp":1532886819,"type":"deposit","giveto":[{"account_id":"42","account_name":"elvis","account_money":"2.20","give":"10.00"}],"human":"elvis deposited EUR 10.00 and has now EUR 12.20"},
+{"timestamp":1532886829,"type":"deposit","giveto":[{"account_id":"42","account_name":"elvis","account_money":"12.20","give":"-9.20"}],"human":"elvis deposited EUR -9.20 and has now EUR 3.00"},
