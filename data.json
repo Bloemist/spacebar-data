@@ -7204,3 +7204,4 @@
 {"timestamp":1532970799,"type":"deposit","giveto":[{"account_id":"20","account_name":"Koen","account_money":"-6.00","give":"1.50"}],"human":"Koen deposited EUR 1.50 and has now EUR -4.50"},
 {"timestamp":1532970804,"type":"buy","products_totalprice":-1.5,"products_amount":1,"products":[{"product_id":"1","product_name":"Soda","product_price":"-1.50","product_type":"1"}],"takefrom":[{"account_id":"42","account_name":"elvis","account_money":"47.90","account_money_take":-1.5,"account_money_after":46.4}],"human":"elvis bought 1 product (-1.50) and has EUR 46.40 left"},
 {"timestamp":1532971013,"type":"deposit","giveto":[{"account_id":"42","account_name":"elvis","account_money":"46.40","give":"-5.50"}],"human":"elvis deposited EUR -5.50 and has now EUR 40.90"},
+{"timestamp":1532971022,"type":"deposit","giveto":[{"account_id":"31","account_name":"sasja","account_money":"-8.80","give":"5.50"}],"human":"sasja deposited EUR 5.50 and has now EUR -3.30"},
