@@ -7195,3 +7195,4 @@
 {"timestamp":1532954762,"type":"buy","products_totalprice":-1.5,"products_amount":1,"products":[{"product_id":"2","product_name":"Jupiler","product_price":"-1.50","product_type":"2"}],"takefrom":[{"account_id":"31","account_name":"sasja","account_money":"18.80","account_money_take":-1.5,"account_money_after":17.3}],"human":"sasja bought 1 product (-1.50) and has EUR 17.30 left"},
 {"timestamp":1532956823,"type":"deposit","giveto":[{"account_id":"31","account_name":"sasja","account_money":"17.30","give":"-24.00"}],"human":"sasja deposited EUR -24.00 and has now EUR -6.70"},
 {"timestamp":1532956830,"type":"deposit","giveto":[{"account_id":"43","account_name":"enzian","account_money":"11.90","give":"24.00"}],"human":"enzian deposited EUR 24.00 and has now EUR 35.90"},
+{"timestamp":1532958876,"type":"deposit","giveto":[{"account_id":"42","account_name":"elvis","account_money":"0.00","give":"50.00"}],"human":"elvis deposited EUR 50.00 and has now EUR 50.00"},
