@@ -7285,3 +7285,4 @@
 {"timestamp":1533325378,"type":"buy","products_totalprice":-2,"products_amount":1,"products":[{"product_id":"3","product_name":"Club Mate","product_price":"-2.00","product_type":"1"}],"takefrom":[{"account_id":"44","account_name":"folkaholic","account_money":"-3.07","account_money_take":-2,"account_money_after":-5.07}],"human":"folkaholic bought 1 product (-2.00) and has EUR -5.07 left"},
 {"timestamp":1533325671,"type":"deposit","giveto":[{"account_id":"1","account_name":"Bloemist","account_money":"-12.40","give":"0.00"}],"human":"Bloemist deposited EUR 0.00 and has now EUR -12.40"},
 {"timestamp":1533325683,"type":"deposit","giveto":[{"account_id":"41","account_name":"Tom","account_money":"5.77","give":"0.00"}],"human":"Tom deposited EUR 0.00 and has now EUR 5.77"},
+{"timestamp":1533325832,"type":"deposit","giveto":[{"account_id":"31","account_name":"sasja","account_money":"29.10","give":"0.00"}],"human":"sasja deposited EUR 0.00 and has now EUR 29.10"},
