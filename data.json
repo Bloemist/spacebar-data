@@ -7389,3 +7389,4 @@
 {"timestamp":1533571475,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"28","account_name":"bart","account_money":"18.12"},"human":"bart has EUR 18.12 left"},
 {"timestamp":1533571477,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"28","account_name":"bart","account_money":"18.12"},"human":"bart has EUR 18.12 left"},
 {"timestamp":1533571488,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"54","account_name":"betz","account_money":"0.40"},"human":"betz has EUR 0.40 left"},
+{"timestamp":1533571582,"type":"deposit","giveto":[{"account_id":"54","account_name":"betz","account_money":"0.40","give":"10.60"}],"human":"betz deposited EUR 10.60 and has now EUR 11.00"},
