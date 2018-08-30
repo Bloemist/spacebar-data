@@ -7608,3 +7608,4 @@
 {"timestamp":1535646853,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"20","account_name":"Koen","account_money":"-4.50"},"human":"Koen has EUR -4.50 left"},
 {"timestamp":1535646920,"type":"buy","products_totalprice":-1.5,"products_amount":1,"products":[{"product_id":"1","product_name":"Soda","product_price":"-1.50","product_type":"1"}],"takefrom":[{"account_id":"20","account_name":"Koen","account_money":"-4.50","account_money_take":-1.5,"account_money_after":-6}],"human":"Koen bought 1 product (-1.50) and has EUR -6.00 left"},
 {"timestamp":1535646927,"type":"deposit","giveto":[{"account_id":"20","account_name":"Koen","account_money":"-6.00","give":"6.00"}],"human":"Koen deposited EUR 6.00 and has now EUR 0.00"},
+{"timestamp":1535647270,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"20","account_name":"Koen","account_money":"0.00"},"human":"Koen has EUR 0.00 left"},
