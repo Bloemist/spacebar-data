@@ -7770,3 +7770,4 @@
 {"timestamp":1536510201,"type":"deposit","giveto":[{"account_id":"58","account_name":"thequux","account_money":"44.40","give":"-6.00"}],"human":"thequux deposited EUR -6.00 and has now EUR 38.40"},
 {"timestamp":1536510210,"type":"deposit","giveto":[{"account_id":"31","account_name":"sasja","account_money":"55.70","give":"6.00"}],"human":"sasja deposited EUR 6.00 and has now EUR 61.70"},
 {"timestamp":1536510225,"type":"deposit","giveto":[{"account_id":"28","account_name":"bart","account_money":"5.92","give":"-6.00"}],"human":"bart deposited EUR -6.00 and has now EUR -0.08"},
+{"timestamp":1536510241,"type":"deposit","giveto":[{"account_id":"31","account_name":"sasja","account_money":"61.70","give":"6.00"}],"human":"sasja deposited EUR 6.00 and has now EUR 67.70"},
