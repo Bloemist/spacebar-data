@@ -7763,3 +7763,4 @@
 {"timestamp":1536504856,"type":"buy","products_totalprice":-2.5,"products_amount":1,"products":[{"product_id":"4","product_name":"Duvel","product_price":"-2.50","product_type":"2"}],"takefrom":[{"account_id":"42","account_name":"elvis","account_money":"-5.80","account_money_take":-2.5,"account_money_after":-8.3}],"human":"elvis bought 1 product (-2.50) and has EUR -8.30 left"},
 {"timestamp":1536508354,"type":"deposit","giveto":[{"account_id":"42","account_name":"elvis","account_money":"-8.30","give":"50.00"}],"human":"elvis deposited EUR 50.00 and has now EUR 41.70"},
 {"timestamp":1536509437,"type":"deposit","giveto":[{"account_id":"58","account_name":"thequux","account_money":"-5.60","give":"6.00"}],"human":"thequux deposited EUR 6.00 and has now EUR 0.40"},
+{"timestamp":1536509443,"type":"deposit","giveto":[{"account_id":"58","account_name":"thequux","account_money":"0.40","give":"44.00"}],"human":"thequux deposited EUR 44.00 and has now EUR 44.40"},
