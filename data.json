@@ -7920,3 +7920,4 @@
 {"timestamp":1537474136,"type":"check","products_totalprice":0,"products_amount":0,"account":{"account_id":"1","account_name":"Bloemist","account_money":"-16.80"},"human":"Bloemist has EUR -16.80 left"},
 {"timestamp":1537474528,"type":"deposit","giveto":[{"account_id":"28","account_name":"bart","account_money":"-0.68","give":"0.00"}],"human":"bart deposited EUR 0.00 and has now EUR -0.68"},
 {"timestamp":1537474546,"type":"deposit","giveto":[{"account_id":"28","account_name":"bart","account_money":"-0.68","give":"5.00"}],"human":"bart deposited EUR 5.00 and has now EUR 4.32"},
+{"timestamp":1537474963,"type":"buy","products_totalprice":-0.6,"products_amount":1,"products":[{"product_id":"9","product_name":"Snack","product_price":"-0.60","product_type":"3"}],"takefrom":[{"account_id":"58","account_name":"thequux","account_money":"4.50","account_money_take":-0.6,"account_money_after":3.9}],"human":"thequux bought 1 product (-0.60) and has EUR 3.90 left"},
