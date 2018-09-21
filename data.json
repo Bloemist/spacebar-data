@@ -7935,3 +7935,4 @@
 {"timestamp":1537547423,"type":"deposit","giveto":[{"account_id":"42","account_name":"elvis","account_money":"6.60","give":"-7.60"}],"human":"elvis deposited EUR -7.60 and has now EUR -1.00"},
 {"timestamp":1537547437,"type":"deposit","giveto":[{"account_id":"49","account_name":"ruleant","account_money":"15.00","give":"-7.60"}],"human":"ruleant deposited EUR -7.60 and has now EUR 7.40"},
 {"timestamp":1537547444,"type":"deposit","giveto":[{"account_id":"31","account_name":"sasja","account_money":"58.10","give":"15.20"}],"human":"sasja deposited EUR 15.20 and has now EUR 73.30"},
+{"timestamp":1537548748,"type":"buy","products_totalprice":-2,"products_amount":1,"products":[{"product_id":"3","product_name":"Club Mate","product_price":"-2.00","product_type":"1"}],"takefrom":[{"account_id":"31","account_name":"sasja","account_money":"73.30","account_money_take":-2,"account_money_after":71.3}],"human":"sasja bought 1 product (-2.00) and has EUR 71.30 left"},
