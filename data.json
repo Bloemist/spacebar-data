@@ -7952,3 +7952,4 @@
 {"timestamp":1539207307,"type":"deposit","giveto":[{"account_id":"31","account_name":"sasja","account_money":"67.80","give":"12.50"}],"human":"sasja deposited EUR 12.50 and has now EUR 80.30"},
 {"timestamp":1539207330,"type":"deposit","giveto":[{"account_id":"42","account_name":"elvis","account_money":"-42.10","give":"-36.00"}],"human":"elvis deposited EUR -36.00 and has now EUR -78.10"},
 {"timestamp":1539207335,"type":"deposit","giveto":[{"account_id":"58","account_name":"thequux","account_money":"-6.10","give":"36.00"}],"human":"thequux deposited EUR 36.00 and has now EUR 29.90"},
+{"timestamp":1539254152,"type":"buy","products_totalprice":-1.5,"products_amount":1,"products":[{"product_id":"1","product_name":"Soda","product_price":"-1.50","product_type":"1"}],"takefrom":[{"account_id":"58","account_name":"thequux","account_money":"29.90","account_money_take":-1.5,"account_money_after":28.4}],"human":"thequux bought 1 product (-1.50) and has EUR 28.40 left"},
