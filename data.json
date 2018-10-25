@@ -8085,3 +8085,4 @@
 {"timestamp":1540495598,"type":"buy","products_totalprice":-0.6,"products_amount":1,"products":[{"product_id":"9","product_name":"Snack","product_price":"-0.60","product_type":"3"}],"takefrom":[{"account_id":"42","account_name":"elvis","account_money":"60.00","account_money_take":-0.6,"account_money_after":59.4}],"human":"elvis bought 1 product (-0.60) and has EUR 59.40 left"},
 {"timestamp":1540497228,"type":"deposit","giveto":[{"account_id":"64","account_name":"Maja","account_money":"0.00","give":"-5.80"}],"human":"Maja deposited EUR -5.80 and has now EUR -5.80"},
 {"timestamp":1540497241,"type":"deposit","giveto":[{"account_id":"1","account_name":"Bloemist","account_money":"-27.40","give":"5.80"}],"human":"Bloemist deposited EUR 5.80 and has now EUR -21.60"},
+{"timestamp":1540497319,"type":"deposit","giveto":[{"account_id":"20","account_name":"Koen","account_money":"-3.00","give":"-12.70"}],"human":"Koen deposited EUR -12.70 and has now EUR -15.70"},
