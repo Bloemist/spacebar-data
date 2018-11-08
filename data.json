@@ -8168,3 +8168,4 @@
 {"timestamp":1541700353,"type":"deposit","giveto":[{"account_id":"44","account_name":"folkaholic","account_money":"27.83","give":"-10.00"}],"human":"folkaholic deposited EUR -10.00 and has now EUR 17.83"},
 {"timestamp":1541700359,"type":"deposit","giveto":[{"account_id":"28","account_name":"bart","account_money":"-15.18","give":"10.00"}],"human":"bart deposited EUR 10.00 and has now EUR -5.18"},
 {"timestamp":1541700455,"type":"buy","products_totalprice":-2,"products_amount":1,"products":[{"product_id":"3","product_name":"Club Mate","product_price":"-2.00","product_type":"1"}],"takefrom":[{"account_id":"28","account_name":"bart","account_money":"-5.18","account_money_take":-2,"account_money_after":-7.18}],"human":"bart bought 1 product (-2.00) and has EUR -7.18 left"},
+{"timestamp":1541700463,"type":"deposit","giveto":[{"account_id":"28","account_name":"bart","account_money":"-7.18","give":"15.00"}],"human":"bart deposited EUR 15.00 and has now EUR 7.82"},
